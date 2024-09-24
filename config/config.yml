@@ -1,0 +1,11 @@
+# config/config.yml
+api:
+  gemini_key: "GEMINI_API_KEY"
+  gemini_secret: "GEMINI_API_SECRET"
+settings:
+  trading_pair: "solusd"
+  base_currency: "USD"
+  trading_currency: "SOL"
+  initial_trade_size: 1
+  profit_margin: 0.02
+  stop_loss_margin: 0.01
